@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/one-last-sweet-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for One Last Sweet Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-last-sweet-kiss/) |
+| **Get License** | [Commercial Licensing for One Last Sweet Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-last-sweet-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your heartbeat through the faded denim,
+> Underneath the glow of this neon light.
+> Just a whispered promise and a little rhythm,
+> To hold you close and make it feel so right.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
