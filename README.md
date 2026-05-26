@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/one-last-sweet-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for One Last Sweet Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-last-sweet-kiss/) |
+| **Get License** | [Commercial Licensing for One Last Sweet Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-last-sweet-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2141)
 
 ---
 
